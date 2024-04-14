@@ -4,7 +4,7 @@
     use app\Controllers\ErrorController;
 
 
-    require __DIR__ . "/../vendor/autoload.php";
+    require __DIR__ . "/vendor/autoload.php";
 
     $subFolder = $_SERVER['BASE_URI'];
 
